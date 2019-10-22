@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/unrepos/static/css/main.cc0b18ba.chunk.css",
-    "main.js": "/unrepos/static/js/main.cbd645cd.chunk.js",
-    "main.js.map": "/unrepos/static/js/main.cbd645cd.chunk.js.map",
+    "main.css": "/unrepos/static/css/main.6fa2ad4a.chunk.css",
+    "main.js": "/unrepos/static/js/main.460b5522.chunk.js",
+    "main.js.map": "/unrepos/static/js/main.460b5522.chunk.js.map",
     "runtime-main.js": "/unrepos/static/js/runtime-main.454bd026.js",
     "runtime-main.js.map": "/unrepos/static/js/runtime-main.454bd026.js.map",
     "static/js/2.5075ebff.chunk.js": "/unrepos/static/js/2.5075ebff.chunk.js",
     "static/js/2.5075ebff.chunk.js.map": "/unrepos/static/js/2.5075ebff.chunk.js.map",
     "index.html": "/unrepos/index.html",
-    "precache-manifest.95e415432fc42eedbb5033927356f996.js": "/unrepos/precache-manifest.95e415432fc42eedbb5033927356f996.js",
+    "precache-manifest.3c66e6507ad2affd654301cd3192b305.js": "/unrepos/precache-manifest.3c66e6507ad2affd654301cd3192b305.js",
     "service-worker.js": "/unrepos/service-worker.js",
-    "static/css/main.cc0b18ba.chunk.css.map": "/unrepos/static/css/main.cc0b18ba.chunk.css.map"
+    "static/css/main.6fa2ad4a.chunk.css.map": "/unrepos/static/css/main.6fa2ad4a.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.454bd026.js",
     "static/js/2.5075ebff.chunk.js",
-    "static/css/main.cc0b18ba.chunk.css",
-    "static/js/main.cbd645cd.chunk.js"
+    "static/css/main.6fa2ad4a.chunk.css",
+    "static/js/main.460b5522.chunk.js"
   ]
 }
